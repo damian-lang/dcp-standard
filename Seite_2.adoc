@@ -1,4 +1,4 @@
-== [blue]#Executive summary#
+== Executive summary
 ---
 This document defines the Distributed Co-Simulation Protocol (DCP), version 1.0. The DCP is a platform and communication medium independent standard for the integration of models or real-time systems into simulation environments. DCP development was driven by the idea to make simulation based work flows more efficient, reduce integration effort and simplify related pro-cesses, and improve the integration of real-time systems. This standard is supported by OEMs, suppliers, tool providers, universities and research organizations.
 
